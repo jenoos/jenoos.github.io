@@ -65,7 +65,7 @@ a {
 }
 
 .main-content h2 {
-    text-align: center;
+    text-align: right;
 }
 
 #projects {
@@ -88,7 +88,7 @@ a {
 }
 
 .project h2 {
-    text-align: left;
+    text-align: right;
 }
 
 .project img {
