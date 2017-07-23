@@ -84,11 +84,11 @@ a {
     background-color: #f2e9dc;
     margin: 1.66%;
     border-radius: 15px;
-    float: left;
+    float: center;
 }
 
 .project h2 {
-    text-align: center;
+    text-align: left;
 }
 
 .project img {
